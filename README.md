@@ -37,22 +37,27 @@ This project was developed to assist Uber's operational teams in understanding r
 <h2>Project walk-through:</h2>
 
 Comprehensive Uber Trip Analysis Dashboard: Uncovering Ride Patterns and Performance Metrics: <br/>
-<img src="https://i.imgur.com/GGtmx6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TO56BFt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 Uber Trip Time Analysis Dashboard: Revealing Temporal Trends and Booking Patterns: <br/>
-<img src="https://i.imgur.com/XZn7tFT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GGtmx6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 HealthStat: Cost Comparison for Elective Hip Replacement Surgeries: <br/>
-<img src="https://i.imgur.com/eKy0Zi5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jm1wzfa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-HealthStat: Hospital Profile for Elective Hip Replacement Surgeries: <br/>
-<img src="https://i.imgur.com/EJ4z9uF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Uber Trip Analysis Bookmark: Understanding Trip and Location Data Structures: <br/>
+<img src="https://i.imgur.com/BHFp8ck.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Uber Trip Analysis Bookmarks and Filters: Streamlined Data Navigation and Insights: <br/>
+<img src="https://i.imgur.com/SXZvo3j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
