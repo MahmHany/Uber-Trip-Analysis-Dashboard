@@ -36,12 +36,12 @@ This project was developed to assist Uber's operational teams in understanding r
 
 <h2>Project walk-through:</h2>
 
-HealthStat: Elective Hip Replacement Dashboard for New York State: <br/>
-<img src="https://i.imgur.com/f6aNuJj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Comprehensive Uber Trip Analysis Dashboard: Uncovering Ride Patterns and Performance Metrics: <br/>
+<img src="https://i.imgur.com/GGtmx6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-HealthStat: LOS Comparison for Elective Hip Replacement Surgeries: <br/>
+Uber Trip Time Analysis Dashboard: Revealing Temporal Trends and Booking Patterns: <br/>
 <img src="https://i.imgur.com/XZn7tFT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
